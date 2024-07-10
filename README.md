@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nelson707
 - 👀 I’m interested in full stack web development
-- 🌱 I'm a backend developer specializing in Laravel
+- 🌱 I'm a fullstack developer specializing in the MERN stack and Laravel
 - 💞️ I’m looking to collaborate on any projects that will boost my skills
 - 📫 Reach me via my email address, nelsonnebo84@gmail.com
 
